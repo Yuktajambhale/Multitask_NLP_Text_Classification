@@ -9,6 +9,9 @@
 ![image (6)](https://github.com/user-attachments/assets/011cafc2-1587-49b1-9627-73d5bdb228ec)
 ![image (7)](https://github.com/user-attachments/assets/2362e8f0-7289-47ee-8a34-2466335d0ddd)
 
+The model predicts Emotion, Violence, and Hate labels simultaneously using a multi-task learning architecture.
+
+
 
 ---
 
@@ -38,8 +41,9 @@ Multitask_NLP_Text_Classification/
 ├── Multitask_NLP_Text_Classification.ipynb # Main Colab notebook
 └── data/ # Dataset files
 
-yaml
-Copy code
+## 📁 Dataset
+The dataset contains text samples labeled for emotion, violence, and hate speech classification.
+
 
 ---
 
