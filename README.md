@@ -1,4 +1,6 @@
 # Multitask NLP Text Classification
+![image (11)](https://github.com/user-attachments/assets/80834fbf-6cd9-4f20-b1c1-6384a13b28a5)
+
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
