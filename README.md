@@ -1,6 +1,5 @@
 # Multitask NLP Text Classification
 
-# Multitask NLP Text Classification
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
 [![GitHub Stars](https://img.shields.io/github/stars/Yuktajambhale/Multitask_NLP_Text_Classification?style=social)](https://github.com/Yuktajambhale/Multitask_NLP_Text_Classification)
