@@ -1,6 +1,9 @@
 # Multitask NLP Text Classification
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
+# Multitask NLP Text Classification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
+
 
 ![image (6)](https://github.com/user-attachments/assets/011cafc2-1587-49b1-9627-73d5bdb228ec)
 ![image (7)](https://github.com/user-attachments/assets/2362e8f0-7289-47ee-8a34-2466335d0ddd)
@@ -42,7 +45,10 @@ Copy code
 ## 📝 How to Run
 
 1. Open the notebook in Google Colab:  
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
+   # Multitask NLP Text Classification
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uwsvJAGPr_IM6RzUb2eimSprEOZTmcpK?usp=sharing)
+
 
 2. Run the notebook cells step by step.
 
